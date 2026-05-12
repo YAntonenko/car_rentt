@@ -1,0 +1,4 @@
+body { background: #f8f9fa; }
+.hero { background: white; border-radius: 18px; padding: 50px; }
+.car-img { height: 190px; object-fit: cover; }
+.table img { width: 70px; height: 50px; object-fit: cover; border-radius: 6px; }
